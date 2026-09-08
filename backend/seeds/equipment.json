@@ -1,0 +1,15 @@
+[
+  {"slug": "bodyweight", "name": "Bodyweight", "category": "bodyweight"},
+  {"slug": "dumbbells", "name": "Dumbbells", "category": "dumbbell"},
+  {"slug": "barbell", "name": "Barbell", "category": "barbell"},
+  {"slug": "bench", "name": "Bench", "category": "machine"},
+  {"slug": "squat_rack", "name": "Squat Rack", "category": "machine"},
+  {"slug": "cable_machine", "name": "Cable Machine", "category": "cable"},
+  {"slug": "resistance_bands", "name": "Resistance Bands", "category": "band"},
+  {"slug": "kettlebell", "name": "Kettlebell", "category": "kettlebell"},
+  {"slug": "pull_up_bar", "name": "Pull-up Bar", "category": "machine"},
+  {"slug": "treadmill", "name": "Treadmill", "category": "cardio"},
+  {"slug": "exercise_bike", "name": "Exercise Bike", "category": "cardio"},
+  {"slug": "rowing_machine", "name": "Rowing Machine", "category": "cardio"},
+  {"slug": "yoga_mat", "name": "Yoga Mat", "category": "mobility"}
+]
