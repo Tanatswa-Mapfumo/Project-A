@@ -1,0 +1,24 @@
+name: app_designs
+description: Flutter implementation of the "App designs" Figma file (Welcome screen, node 33:5).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/welcome_bg.jpg
+    - assets/icons/chart_spline.svg
